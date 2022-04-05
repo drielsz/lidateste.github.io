@@ -435,6 +435,9 @@ section .destaques .container h1 {
   footer{
     margin-top: 500px;
   }
+  body{
+    zoom: 100%;
+  }
 }
 
 @media only screen and (max-width: 769px) {
